@@ -25,7 +25,7 @@ item.inventorypets_anvil_pet.name=Kieszonkowe Kowadło
 item.inventorypets_brewing_stand_pet.name=Kieszonkowy Statym Alchemiczny
 item.inventorypets_nether_portal_pet.name=Kieszonkowy Portal do Netheru
 
-item.inventorypets_pingot_pet.name=Pingot
+item.inventorypets_pingot_pet.name=Sonarsztabka
 item.inventorypets_mickerson_pet.name=Mickerson
 item.inventorypets_purplicious_cow_pet.nameFioletowna Krowa
 item.inventorypets_qcm_pet.name=Kwantowy potwór kryształowy
@@ -81,59 +81,59 @@ item.inventorypets_solstice_chestplate.name=Świąteczny Pancerz
 item.inventorypets_solstice_leggings.name=Świąteczne Nogawki
 item.inventorypets_solstice_boots.name=Świąteczne Buty
 item.inventorypets_solstice_sword.name=Świąteczny Miecz
-inventorypets.solstice.recipes=["Czas na 12 dni Petmas! Zabawa zaczyna się 14 Grudnia. Aby zagrac, skraftuj swiatecznego peta: [",{"text":"Recipes Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see the Holiday Pet recipes","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+inventorypets.solstice.recipes=["Czas na 12 dni Petmas! Zabawa zaczyna się 14 Grudnia. Aby zagrac, skraftuj swiatecznego peta: [",{"text":"Recipes Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Kliknij aby zobaczyc przepis","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
 item.inventorypets_pet_christmas_tree.name=Choinka Przyjaciel
-item.inventorypets_pet_menorah.name=Menorah Pet
-item.inventorypets_pet_mishumaa_saba.name=Mishumaa Saba Pet
-item.inventorypets_pet_politically_correct.name=Politically Correct Pet
-item.gift.notholiday=Holiday Pet only works during Petmas, between December 14-25
-item.gift.taken=You have already received your gift today
-item.gift.dates=Gifts are only valid between December 14-25
-pet.holiday.dates=Try again during Petmas, between December 14-25
+item.inventorypets_pet_menorah.name=Przyjaciel Menorah
+item.inventorypets_pet_mishumaa_saba.name=Przyjaciel Mishumaa Saba
+item.inventorypets_pet_politically_correct.name=Politycznie Poprawny Przyjaciel
+item.gift.notholiday=Przyjaciele swiateczni dzialaja tylko w Petmas (14-25 Grudnia)
+item.gift.taken=Jusz dostalesz dzis prezent
+item.gift.dates=Prezenty tylko dziajaja w Petmas (14-25 Grudnia)
+pet.holiday.dates=Sproboj w Petmas (14-25 Grudnia)
 
 
-item.inventorypets_nugget_diamond.name=Diamond Nugget
-item.inventorypets_nugget_obsidian.name=Obsidian Nugget
-item.inventorypets_nugget_coal.name=Coal Nugget
-item.inventorypets_nugget_emerald.name=Emerald Nugget
-item.inventorypets_nugget_iron.name=Iron Nugget
-item.inventorypets_nugget_ender.name=Ender Nugget
-item.inventorypets_nugget_lapis.name=Lapis Nugget
-item.inventorypets_feed_bag.name=Feed Bag
+item.inventorypets_nugget_diamond.name=Brylka Diamentu
+item.inventorypets_nugget_obsidian.name=Brylka Obsidianu
+item.inventorypets_nugget_coal.name=Brylka Wegla
+item.inventorypets_nugget_emerald.name=Brylka Szmaragdu
+item.inventorypets_nugget_iron.name=Brylka Zelaza
+item.inventorypets_nugget_ender.name=Brylka Kresu
+item.inventorypets_nugget_lapis.name=Bryllka Lapis Lazulitu
+item.inventorypets_feed_bag.name=Worek Karmy
 
-tile.inventorypets_cloud.name=Cloud Block
-tile.inventorypets_cloud_spawn.name=Cloud Spawner
-tile.inventorypets_sand.name=Sand Block
-tile.inventorypets_sand_spawn.name=Sand Spawner
-tile.inventorypets_stone.name=Stone Block
-tile.inventorypets_stone_spawn.name=Stone Spawner
+tile.inventorypets_cloud.name=Blok Chmury
+tile.inventorypets_cloud_spawn.name==Spawner Chmury
+tile.inventorypets_sand.name=Blok Piasku
+tile.inventorypets_sand_spawn.name=Spawner Piasku
+tile.inventorypets_stone.name=Block Kamienia 
+tile.inventorypets_stone_spawn.name=Spawner Kamienia
 
-tile.bed.notHere=You cannot sleep here
-tile.bed.allPlayersNotSleeping=All players must be in beds
+tile.bed.notHere=nie mozesz tu spac
+tile.bed.allPlayersNotSleeping=Wszyscy gracze musza byc w lozkach
 
-entity.inventorypets.MiniQuantumBlaze.name=Mini Quantum Blaze
-entity.inventorypets.MiniQuantumEnderman.name=Mini Quantum Enderman
+entity.inventorypets.MiniQuantumBlaze.name=Mini Kwantowy Blaze
+entity.inventorypets.MiniQuantumEnderman.name=Mini Kwantoey Enderman
 entity.inventorypets.BillGates.name=Bill Gates
 entity.inventorypets.SteveBallmer.name=Steve Ballmer
 entity.inventorypets.SatyaNadella.name=Satya Nadella
-entity.inventorypets.EntityAnvilPet.name=Living Anvil
-entity.inventorypets.EntityBedPet.name=Living Bed
-entity.inventorypets.Banana.name=Banana
+entity.inventorypets.EntityAnvilPet.name=Zyjace kowadlo
+entity.inventorypets.EntityBedPet.name=Zyjace lozko
+entity.inventorypets.Banana.name=Banan
 
 
-item.wolf.false=Wolf alarm off
-item.wolf.true=Wolf alarm on
-item.loot.noenchants=Loot Pet does not work with items enchanted with Fortune, Looting, or Silk Touch
-item.petHouse.spawnpoint=Home spawnpoint set at 
-inventorypets.aprilfool.info=["It's April, Fools! For the month of April, enjoy the April Fool Pet, but be warned, he is quite unpredictable! [",{"text":"Recipe Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see April Fool Pet recipe","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
-pet.fool.dates=Try again during the month of April
-pet.fool.disabled=April Foolishness has been disabled
+item.wolf.false=Wilczy alarm wylaczony
+item.wolf.true=Wilczy alarm wlaczony
+item.loot.noenchants=____ nie dziala z zakleciami Fortune, Looting, albo Silk Touch
+item.petHouse.spawnpoint=Spawn ustawiony na 
+inventorypets.aprilfool.info=["Prima Aprilis! Bawcie sie Pryjacielem Prima Aprilis, ale uwazajce, jest nieprzewidiwalny![",{"text":"Recipe Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Kliknij aby zobaczyc przepis","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
+pet.fool.dates=Sproboj w kwietniu
+pet.fool.disabled=Prima Aprilis-nosc zostala wylaczona
 
-container.petnamer=Pet Namer
-gui.accept=Accept
+container.petnamer=Nazywacz Przyjacieli
+gui.accept=Akceptuj
 
-key.inventorypets.category=Inventory Pets
-key.categories.naming=Pet Namer
+key.inventorypets.category=Pryjaciele z Ekwipunku
+key.categories.naming=Nazywacz Przyjacieli
 
 item.netherportal.noreturn=Nether Portal cannot find last return point, returning to last known Spawn point
 item.netherportal.patience=Please remain patient while Nether Portal finds a safe spot
